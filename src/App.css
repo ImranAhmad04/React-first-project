@@ -3,23 +3,20 @@
   margin: 0 auto;
   text-align: center;
 }
-#result-table{
-  margin: 0;
-  padding:30px;
-}
 table{
   background-color: rgb(106, 255, 255);
-  padding: 5px;
-  width: 100%;
+  min-width: 600px;
 }
 tr{
   color: rgb(3, 73, 50);
-  padding: 5%;
- width: 100%;
 }
 td{
-  color: rgb(131, 115, 91);
-  width: auto;
+  color: rgb(255, 157, 10);
+  border: 2px solid rgb(0, 217, 255);
+  padding: 5px;
+  border-top: none;
+  border-bottom: none;
+  width: 10%;
 }
 /* .logo {
   height: 6em;
